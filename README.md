@@ -23,5 +23,5 @@ The project clusters data into groups and visualizes the results for better unde
 ## ▶️ How to Run
 1. Clone the repository
    ```bash
-   git clone git clone https://github.com/amanchandsoni/kmeans-clustering-ml-project.git
+   git clone https://github.com/amanchandsoni/kmeans-clustering-ml-project.git
 
